@@ -1,0 +1,15 @@
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\obj\Debug\net8.0\tpmodul6_1302223137.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\obj\Debug\net8.0\tpmodul6_1302223137.AssemblyInfoInputs.cache
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\obj\Debug\net8.0\tpmodul6_1302223137.AssemblyInfo.cs
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\obj\Debug\net8.0\tpmodul6_1302223137.csproj.CoreCompileInputs.cache
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\obj\Debug\net8.0\tpmodul6_1302223137.sourcelink.json
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\bin\Debug\net8.0\tpmodul6_1302223137.exe
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\bin\Debug\net8.0\tpmodul6_1302223137.deps.json
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\bin\Debug\net8.0\tpmodul6_1302223137.runtimeconfig.json
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\bin\Debug\net8.0\tpmodul6_1302223137.dll
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\bin\Debug\net8.0\tpmodul6_1302223137.pdb
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\obj\Debug\net8.0\tpmodul6_1302223137.dll
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\obj\Debug\net8.0\refint\tpmodul6_1302223137.dll
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\obj\Debug\net8.0\tpmodul6_1302223137.pdb
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\obj\Debug\net8.0\tpmodul6_1302223137.genruntimeconfig.cache
+C:\Kuliah\SEMESTER 4\KPL\Praktikum\TPMOD6\tpmodul6_1302223137\tpmodul6_1302223137\obj\Debug\net8.0\ref\tpmodul6_1302223137.dll
